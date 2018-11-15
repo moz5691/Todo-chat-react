@@ -5,7 +5,7 @@ This app is ToList with multiple features.
 3. Click on circle is marked as done and changes to crossed circle.  Click on the crossed circle to delete it.
 4. Todo text and complete is stored in MongoDB.
 
-![Alt text](/etc/todolist.png?raw=true "Todo screenshot")
+![Upload Photo](etc/todolist.png)
 
 Frontend side is written in React.
 Backend side is written in Node/Express.
